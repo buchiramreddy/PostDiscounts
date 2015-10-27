@@ -12,7 +12,7 @@ CREATE TABLE PRODUCT(
 jdbc.driverClassName = com.mysql.jdbc.Driver
 jdbc.url = jdbc:mysql://127.0.0.1:3306/ads
 jdbc.username = root
-jdbc.password = bx7e7UuxqE*K
+jdbc.password = Passw0rd
 hibernate.dialect = org.hibernate.dialect.MySQLDialect
 hibernate.show_sql = true
 hibernate.format_sql = true
